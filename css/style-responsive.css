@@ -1,0 +1,81 @@
+/**css by Magic.C QQ81594559 2019.3**/
+
+
+
+@media only screen and (min-width: 1000px) and (max-width:1200px) {
+
+}
+
+@media only screen and (min-width:768px) and (max-width:999px) {
+
+}
+
+/*========针对所有大屏*/
+@media only screen and (min-width: 768px) {
+	
+}
+
+/*========针对所有小屏*/
+@media only screen and (max-width: 767px) {
+
+
+}
+
+
+/*====PC端=====*/
+/*1600 1680 1920*/
+@media only screen and (min-width: 1601px) {
+
+	
+}
+/*1600*/
+@media only screen and (min-width: 1441px) and (max-width:1600px) {
+    .mysite-list .item .img-box{height:92px;width:92px;}
+    .mysite-list .item .name{font-size: 15px;margin-top: 13px;}
+    .mysite-list .item{margin-bottom:32px;}
+
+}
+
+/*1366 1440*/
+@media only screen and (min-width: 1281px) and (max-width:1440px) {
+    .mysite-list{width:75%;}
+    .mysite-list .item .img-box{height:82px;width:82px;}
+    .mysite-list .item .name{font-size: 14px;margin-top: 10px;}
+    .mysite-list .item{margin-bottom:26px;}
+}
+
+/*1280*/
+@media only screen and (min-width: 1153px) and (max-width:1280px) {
+    .mysite-list{width:80%;}
+    .mysite-list .item .img-box{height:76px;width:76px;}
+    .mysite-list .item .name{font-size: 13px;margin-top: 10px;}
+    .mysite-list .item{margin-bottom:22px;}
+
+}
+
+/*800 1024 1152*/
+@media only screen and (min-width: 768px) and (max-width:1152px) {
+    .mysite-list{width:84%;}
+    .mysite-list .item .img-box{height:70px;width:70px;}
+    .mysite-list .item .name{font-size: 12px;margin-top: 10px;}
+    .mysite-list .item{margin-bottom:20px;}
+
+}
+
+
+/*====移动端====*/
+/*540 640 720 768*/
+@media only screen and (min-width: 481px) and (max-width:767px) {
+	
+}
+
+/*328 360 371 375 393 414 432 480*/
+@media only screen and (min-width: 321px) and (max-width:480px) {
+	
+}
+
+/*240 320*/
+@media only screen and (max-width: 320px) {
+	
+}
+
